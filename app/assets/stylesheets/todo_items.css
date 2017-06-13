@@ -1,0 +1,15 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+h1 {
+    display: block;
+    font-size: 5em;
+    font-weight: bold;
+    color: pink;
+    justify-content: center;
+}
+
+#notice {
+	color: red;
+}
